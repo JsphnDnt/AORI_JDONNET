@@ -1,5 +1,7 @@
 # Histoire du Machine Learning
 
+[Accueil](index.md)
+
 Cette classe contient les références retraçant l'histoire du Machine learning.
 
 **FOOTE, Keith D. A Brief History of Machine Learning. Dans : DATAVERSITY [en ligne]. 26 mars 2019. [Consulté le 8 juin 2019]. Disponible à l’adresse : https://www.dataversity.net/a-brief-history-of-machine-learning/**
