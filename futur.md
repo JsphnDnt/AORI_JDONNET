@@ -1,5 +1,9 @@
 # Futur du Machine Learning
 
+[Accueil](index.md)
+
+Cette section comporte les références de différentes prédictions sur le Machine Learning.
+
 **GHOSH, Paramita. Machine Learning and Artificial Intelligence Trends in 2018. Dans : DATAVERSITY [en ligne]. 6 février 2018. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.dataversity.net/machine-learning-artificial-intelligence-trends-2018/**
 
 ![MLfut1](images/MLfut1.png)
