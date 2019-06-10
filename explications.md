@@ -1,5 +1,7 @@
 # Explications
 
+[Accueil](index.md)
+
 Cette classe comporte les références d'articles avec des explications complètes sur le Machine Learning.
 
 **ALPAYDIN, Ethem. Introduction to Machine Learning. [S. l.] : MIT Press, 4 décembre 2009. ISBN 978-0-262-30326-2. Google-Books-ID: TtrxCwAAQBAJ**
