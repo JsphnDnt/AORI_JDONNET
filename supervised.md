@@ -1,5 +1,7 @@
 # Supervised learning
 
+[Accueil](index.md)
+
 Dans cette classe se trouvent les références sur le "Supervised Learning". 
 
 **SHETTY, Badreesh. Supervised Machine Learning: Classification. Dans : Towards Data Science [en ligne]. 12 décembre 2018. [Consulté le 8 juin 2019]. Disponible à l’adresse : https://towardsdatascience.com/supervised-machine-learning-classification-5e685fe18a6d**
