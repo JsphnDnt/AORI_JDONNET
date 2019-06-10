@@ -1,5 +1,7 @@
 # Applications
 
+[Accueil](index.md)
+
 Cette classe contient les références de différentes apllications possibles du Machine Learning.
 
 **BARTLETT, M. S., LITTLEWORT, G., FRANK, M., LAINSCSEK, C., FASEL, I. et MOVELLAN, J. Recognizing facial expression: machine learning and application to spontaneous behavior. Dans : 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR’05). Vol. 2 [en ligne]. juin 2005, p. 568‑573 vol. 2. DOI 10.1109/CVPR.2005.297**
